@@ -1,9 +1,3 @@
-/*
-    N220 
-    Hieu Nguyen
-    Week 15 final project
-    Breakout
-*/
 
 "use strict";
 
