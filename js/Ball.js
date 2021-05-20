@@ -1,10 +1,3 @@
-/*
-    N220 
-    Hieu Nguyen
-    Week 15 final project
-    Breakout
-    -Ball-
-*/
 
 //create a class to keep track data in the game
 class Ball{
