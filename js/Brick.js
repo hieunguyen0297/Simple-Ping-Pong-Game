@@ -1,11 +1,4 @@
-/*
-    N220 
-    Hieu Nguyen
-    Week 15 final project
-    Breakout 
 
-    -Brick-
-*/
 
 //create class brick
 class Brick{
