@@ -1,13 +1,4 @@
 
-/*
-    N220 
-    Hieu Nguyen
-    Week 15 final project
-    Breakout
-    -Paddle-
-*/
-
-
 //create paddle class
 class Paddle{
     constructor(){
